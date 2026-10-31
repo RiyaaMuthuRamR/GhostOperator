@@ -1,0 +1,5 @@
+ID,Timestamp,Status,Message
+1,10:00,SUCCESS,User logged in successfully
+2,10:05,WARNING,High memory consumption detected
+3,10:12,ERROR,Database connection failed to resolve
+4,10:15,SUCCESS,Cache cleared safely
